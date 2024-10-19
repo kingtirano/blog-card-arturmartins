@@ -52,6 +52,11 @@ body {
   letter-spacing: 0px;
 }
 
+.titleone:hover {
+  color: #f5d04f;
+  cursor: pointer;
+}
+
 .published {
   letter-spacing: 0px;
   line-height: 150%;
